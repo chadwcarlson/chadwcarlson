@@ -4,19 +4,21 @@ Howdy 👋 I'm Chad. I write code and produce articles & technical documentation
 
 ### 🔭 My work
 
-I produce technical content, including blogs, videos, documentation, talks and demos within the scope of Developer Relations. I have also taken up management roles within DevRel, Documentation and Developer Education, where I've focused on developing strategy to improve product awareness, community engagement, improved onboarding, adoption, events, and much more. You can see some of my work in the links below.
+I produce technical content, including blogs, videos, documentation, talks and demos within the scope of Developer Relations. I have also taken up management roles within DevRel, Documentation and Developer Education, where I've focused on developing strategy to improve product awareness, community engagement, improved onboarding, adoption, events, and much more. You can see some of my work on my website - [chadwcarlson.com](https://chadwcarlson.com).
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=chadwcarlson&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chadwcarlson&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html,css,scss">
 </p>
 
+<!---
 <p align="center">
-<a href="https://chadwcarlson.com"><strong>Writing</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com"><strong>chadwcarlson.com</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com"><strong>Talks</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com"><strong>Projects</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com"><strong>Demos & Code</strong></a>
 </p>
+-->
 
 ### 🌱 I'm looking for work
 
