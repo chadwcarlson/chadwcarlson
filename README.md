@@ -11,14 +11,14 @@ I produce technical content, including blogs, videos, documentation, talks and d
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chadwcarlson&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html,css,scss">
 </p>
 
-<!---
 <p align="center">
-<a href="https://chadwcarlson.com"><strong>chadwcarlson.com</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://chadwcarlson.com"><strong>Talks</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://chadwcarlson.com"><strong>Projects</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://chadwcarlson.com"><strong>Demos & Code</strong></a>
+<a href="https://chadwcarlson.com" target="_blank"><strong>About me</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com?tab=2" target="_blank"><strong>Writing</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com?tab=3" target="_blank"><strong>Talks</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com?tab=4" target="_blank"><strong>Docs & example code</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com?tab=5" target="_blank"><strong>Training</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com?tab=6" target="_blank"><strong>Work</strong></a>
 </p>
--->
 
 ### 🌱 I'm looking for work
 
