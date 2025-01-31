@@ -15,7 +15,7 @@ I produce technical content, including blogs, videos, documentation, talks and d
 <a href="https://chadwcarlson.com" target="_blank"><strong>About me</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com?tab=2" target="_blank"><strong>Writing</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com?tab=3" target="_blank"><strong>Talks</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://chadwcarlson.com?tab=4" target="_blank"><strong>Docs & example code</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chadwcarlson.com?tab=4" target="_blank"><strong>Projects</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com?tab=5" target="_blank"><strong>Training</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://chadwcarlson.com?tab=6" target="_blank"><strong>Work</strong></a>
 </p>
