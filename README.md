@@ -1,4 +1,6 @@
+<!--
 [![github-header](https://github.com/user-attachments/assets/679fb0ac-b253-4ca1-8b15-132edd567bd3)](https://chadwcarlson.com)
+-->
 
 Howdy 👋 I'm Chad. I write code and produce articles & technical documentation about code. I create live & produced technical talks & demos. I plan, workshop, and optimize developer learning paths and curriculum. I like thinking about how to optimize developer resources and documentation to reduce friction, encourage contributions and feedback, increase adoption, and in general get people excited about learning about and experimenting with technical things.
 
